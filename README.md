@@ -32,6 +32,6 @@ npm run dev
 npm run build
 ```
 
-## 👨‍💻 Desenvolvido por
+## 👨‍💻 Desenvolvido por Carlos Emanuel
 
 Projeto desenvolvido para explorar experiências digitais interativas para o setor gastronômico.
